@@ -1,2 +1,2 @@
-# gemastik-xiv
+# CTF GEMASTIK XIV - Write Up
 Write-Up CTF GEMASTIK XIV
